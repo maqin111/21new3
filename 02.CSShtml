@@ -8,12 +8,8 @@
        h1 {
         color:red
         text.align:center:
-        
        }
-
     </style>
-    
-
 </head>
 <body>
     <h1>HTML常用元素练习</h1>
