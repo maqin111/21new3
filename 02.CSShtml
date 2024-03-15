@@ -1,0 +1,40 @@
+!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML常用元素练习</title>
+    <style>
+       h1 {
+        color:red
+        text.align:center:
+        
+       }
+          
+
+       )
+           
+            
+
+    </style>
+    
+
+</head>
+<body>
+    <h1>HTML常用元素练习</h1>
+    <p>
+        <a href="https://www.daodejing.org/">古之善为道者</a
+         >,微妙玄通，深不可识。夫不唯不可识，故强为之容②；豫兮③若冬涉川④；犹兮⑤若畏四邻⑥；俨兮⑦其若客⑧；涣兮其若凌释⑨；
+        敦兮其若朴；旷兮其若谷；混兮其若浊；孰能浊⒀以静之徐清？孰能安⒁以静之徐生？保此道者，不欲盈⒂。夫唯不盈，故能蔽而新
+        成⒃。
+    </p>
+    <p>
+        <img src="http://n.sinaimg.cn/sinacn10/588/w1240h1748/20181010/b3b7-hkrzvkw4464475.jpg" alt="1"/>
+    </p>
+    <ol>
+        <li>大一</li>
+        <li>大二</li>
+        <li>大三</li>
+    </ol> 
+  </body>
+</html>
