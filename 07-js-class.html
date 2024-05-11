@@ -24,8 +24,10 @@
         }
             专业="新闻学"
             //  类class中的函数function,叫做方法method
+            打招呼(对象,内容)
             sayHello(){
                 console.log("这是来自方法的你好！")  
+                console.log(this 姓名}对${this.打招呼});
             }
             谈恋爱(){
                 console.log("开始一段没有结果的恋情");
@@ -45,10 +47,12 @@
         小明.专业;
         console.log(小明.专业);
         小明.谈恋爱();
-        const 小明 = new 学生("新闻学","西北民族大学","小明");
+        const小明= new 学生("新闻学","西北民族大学","小明");
         const 小丽 = new 学生("舞蹈","西北民族大学","小丽");
         console.log(小明.专业);
         console.log(小丽.专业);
+        小明.打招呼("小丽","小姐姐今天好漂亮");
+        小丽.打招呼("xiaoming","滚一边去");
 
     </script>
 </body>
